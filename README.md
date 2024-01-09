@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4250F7&background=FF512800&center=true&vCenter=true&width=435&lines=%F0%9D%90%96%F0%9D%90%8E%F0%9D%90%8E%F0%9D%90%83%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%9F%F0%9D%90%AD+%F0%9D%90%8C%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%AB+%F0%9D%90%99%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9E%E2%84%A2)](https://git.io/typing-svg)</p>
 <p align="center">
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm SudoR2spr</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sᴜɴʀɪsᴇs Hᴀʀsʜᴀ 𝟸𝟺 🇮🇳 ᵀᴱᴸ</h2>
 
 <div align="center">
 <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
@@ -85,11 +85,8 @@
 <a href="https://t.me/Sunrises_24"><img src="https://img.shields.io/badge/-𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 🧑🏻‍💻%20%20-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
 <a href="https://t.me/Sunrises24BotUpdates"><img src="https://img.shields.io/badge/-𝐒𝐔𝐍𝐑𝐈𝐒𝐄𝐒 𝟐𝟒 𝐁𝐎𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒%20%20-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
 <a href="https://t.me/SUNRISES24BOT"><img src="https://img.shields.io/badge/-𝐒𝐔𝐍𝐑𝐈𝐒𝐄𝐒 𝟐𝟒 𝐁𝐎𝐓 𝐇𝐄𝐋𝐏%20%20-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>  
-<a href="https://t.me/Opleech"><img title="Telegram" src="https://img.shields.io/static/v1?label=WD.Zone&message=TG&color=blue-green"></a> 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"> 
 </p>
  
 -----
-Credits: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭](https://t.me/Farooq_is_KING)
-
 Last Edited on: 01/10/2023
