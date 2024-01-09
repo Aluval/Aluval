@@ -28,8 +28,6 @@
   
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api?username=Aluval&cc=000&tc=fff&ic=fff&bc=000" align="center">
 </p>
