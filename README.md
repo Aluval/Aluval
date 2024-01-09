@@ -1,9 +1,9 @@
 <!-- RAINBOW LINE TOP -->
-<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/Aluval/Aluval/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
-<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/banner-header.gif">
-<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/Aluval/Aluval/raw/main/assets/banner-header.gif">
+<img src="https://github.com/Aluval/Aluval/raw/main/assets/line-neon.gif" width="100%">
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4250F7&background=FF512800&center=true&vCenter=true&width=435&lines=%F0%9D%90%96%F0%9D%90%8E%F0%9D%90%8E%F0%9D%90%83%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%9F%F0%9D%90%AD+%F0%9D%90%8C%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%AB+%F0%9D%90%99%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9E%E2%84%A2)](https://git.io/typing-svg)</p>
@@ -16,20 +16,18 @@
  <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
 
 <!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SudoR2spr&label=Profile%20views&color=0e75b6&style=flat" alt="SudoR2spr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SudoR2spr&label=Profile%20views&color=0e75b6&style=flat" alt="Sᴜɴʀɪsᴇs Hᴀʀsʜᴀ 𝟸𝟺 🇮🇳 ᵀᴱᴸ" /> </p>
 
 <p align="left">
 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
 <p align="left">
-• 𝙼𝚢 𝙽𝚊𝚖𝚎 : SudoR2spr 😉
+• 𝙼𝚢 𝙽𝚊𝚖𝚎 : Sᴜɴʀɪsᴇs Hᴀʀsʜᴀ 𝟸𝟺 🇮🇳 ᵀᴱᴸ 😉
 <p align="left">
-• 𝙰𝚐𝚎 : 28
+• 𝙰𝚐𝚎 : 21
 <p align="left">
-• 𝙿𝚕𝚊𝚌𝚎 : 𝙺olkata
+• 𝙿𝚕𝚊𝚌𝚎 : Kurnool 
 <p align="left">
-• 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : Bangli,Hindi,
-<p align="left">
-• 𝚆𝚘𝚛𝚔 : Plywood furniture 10 𝚢𝚎𝚊𝚛
+• 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : Telugu, English 
 <p align="left">
 - 𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 🔥
   
@@ -44,10 +42,10 @@
 ---
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api?username=SudoR2spr&cc=000&tc=fff&ic=fff&bc=000" align="center">
+<img src="https://github-stats-alpha.vercel.app/api?username=Aluval&cc=000&tc=fff&ic=fff&bc=000" align="center">
 </p>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/Aluval/Aluval/main/assets/Night-Coding.gif" align="right"/>
 
 ### 💻Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -76,9 +74,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/SudoR2spr">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SudoR2spr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SudoR2spr&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Aluval">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aluval&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aluval&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
