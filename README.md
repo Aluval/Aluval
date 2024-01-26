@@ -73,5 +73,8 @@
 <a href="https://github.com/Aluval/PHOTOENHANCER24BOT"> 
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aluval&repo=PHOTOENHANCER24BOT&cache_seconds=86400&theme=gotham"> 
  </a>
- 
+
+ <a href="https://github.com/Aluval/INFINITYSTARRENAME24BOT"> 
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aluval&repo=INFINITYSTARRENAME24BOT&cache_seconds=86400&theme=gotham"> 
+ </a>
 -----
