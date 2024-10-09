@@ -81,4 +81,10 @@
  <a href="https://github.com/Aluval/MetaMorpher"> 
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aluval&repo=MetaMorpher&cache_seconds=86400&theme=gotham"> 
  </a>
+ 
+ <a href="https://github.com/Aluval/EchoBeats"> 
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aluval&repo=EchoBeats&cache_seconds=86400&theme=gotham"> 
+ </a>
+
+ 
 -----
