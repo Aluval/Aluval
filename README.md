@@ -87,4 +87,8 @@
  </a>
 
  
+ <a href="https://github.com/Aluval/FitPixAI"> 
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aluval&repo=FitPixAI&cache_seconds=86400&theme=gotham"> 
+ </a>
+
 -----
