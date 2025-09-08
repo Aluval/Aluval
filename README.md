@@ -95,4 +95,7 @@
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aluval&repo=StreamCleanX&cache_seconds=86400&theme=gotham"> 
  </a>
 
+<a href="https://github.com/Aluval/ReNameXBot"> 
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aluval&repo=ReNameXBot&cache_seconds=86400&theme=gotham"> 
+ </a>
 -----
