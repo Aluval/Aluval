@@ -22,7 +22,7 @@
 <p align="left">
 • 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : Telugu, English 
 <p align="left">
-- 𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 🔥
+- 𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 GitHub 🔥
   
 ---
 
