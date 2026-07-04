@@ -130,18 +130,6 @@ I'm an AI Engineer passionate about building intelligent software using Artifici
 
 ---
 
-# 🌱 Currently Working On
-
-- 🤖 AI Coding Assistant
-- 👤 Face Recognition Security System
-- 🖼️ FitPix AI
-- 🌐 MetaMorpher Community Platform
-- 🎬 StreamCleanX
-- 🧠 Machine Learning Research
-- 💬 Large Language Models (LLMs)
-
----
-
 # 📫 Connect With Me
 
 <p align="left">
