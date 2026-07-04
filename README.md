@@ -1,105 +1,181 @@
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/Aluval/Aluval/raw/main/assets/line-neon.gif" width="100%">
+# 👋 Hi, I'm Harsha Vardhan Goud
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐒𝐔𝐍𝐑𝐈𝐒𝐄𝐒+𝐖𝐎𝐑𝐋𝐃🌏!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝐒𝐔𝐍𝐑𝐈𝐒𝐄𝐒+𝐇𝐀𝐑𝐒𝐇𝐀+𝟐𝟒✨!)</p>
-<!-- GIF HEADER -->
-<img src="https://github.com/Aluval/Aluval/raw/main/assets/line-neon.gif" width="100%">
+### AI Engineer | Machine Learning Engineer | Python Developer | Full Stack Developer
 
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sᴜɴʀɪsᴇs Hᴀʀsʜᴀ 𝟸𝟺 🇮🇳 ᵀᴱᴸ</h2>
-
-<!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aluval&label=Profile%20views&color=0e75b6&style=flat" alt="Sᴜɴʀɪsᴇs Hᴀʀsʜᴀ 𝟸𝟺 🇮🇳 ᵀᴱᴸ" /> </p>
+Building AI-powered applications, intelligent automation systems, and scalable software solutions.
 
 <p align="left">
-𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
+  <img src="https://komarev.com/ghpvc/?username=Aluval&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+# 🚀 About Me
+
+I'm an AI Engineer passionate about building intelligent software using Artificial Intelligence, Machine Learning, Computer Vision, and Automation.
+
+- 🤖 AI & Machine Learning Enthusiast
+- 💻 Python & Full Stack Developer
+- 🧠 Exploring Large Language Models (LLMs)
+- 👁️ Computer Vision Developer
+- ☁️ Firebase & Cloud Integration
+- 🌱 Open Source Contributor
+- 📍 Andhra Pradesh, India
+- 🎓 MCA Student
+
+---
+
+# 💻 Tech Stack
+
+## Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+## AI / Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+## Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🤖 **AI Coding Assistant** | AI-powered coding assistant supporting code generation, debugging, code explanation, architecture analysis, and multi-model LLM integration. |
+| 👤 **Face Recognition Security System** | Intelligent surveillance platform with real-time face recognition, Firebase integration, and automated incident reporting. |
+| 🖼️ **FitPix AI** | AI-powered image enhancement platform featuring compression, restoration, background removal, and intelligent photo editing. |
+| 🌐 **MetaMorpher** | Professional Telegram ecosystem for media automation, community management, developer utilities, bot integrations, and scalable digital services. |
+| 🎬 **StreamCleanX** | High-performance media processing toolkit for stream removal, subtitle editing, metadata modification, and video automation. |
+| 📸 **PHOTOENHANCER24BOT** | Telegram bot for AI-powered image enhancement and photo quality improvement. |
+
+---
+
+# 🎯 Current Focus
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 👁️ Computer Vision
+- 💬 Large Language Models (LLMs)
+- ⚡ Python Automation
+- 🌐 Full Stack Development
+- ☁️ Firebase & Cloud Technologies
+- 📱 Telegram Platform Development
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aluval&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aluval&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Aluval&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aluval&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aluval&theme=tokyonight&margin-w=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 🌱 Currently Working On
+
+- 🤖 AI Coding Assistant
+- 👤 Face Recognition Security System
+- 🖼️ FitPix AI
+- 🌐 MetaMorpher Community Platform
+- 🎬 StreamCleanX
+- 🧠 Machine Learning Research
+- 💬 Large Language Models (LLMs)
+
+---
+
+# 📫 Connect With Me
+
 <p align="left">
-• 𝙼𝚢 𝙽𝚊𝚖𝚎 : Sᴜɴʀɪsᴇs Hᴀʀsʜᴀ 𝟸𝟺 🇮🇳 ᵀᴱᴸ 😉
-<p align="left">
-• 𝙰𝚐𝚎 : 24
-<p align="left">
-• 𝙿𝚕𝚊𝚌𝚎 : Kurnool 
-<p align="left">
-• 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : Telugu, English 
-<p align="left">
-- 𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 GitHub 🔥
-  
+
+<a href="https://github.com/Aluval">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://t.me/Sunrises_24">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://t.me/SUNRISES24BOT">
+<img src="https://img.shields.io/badge/Developer%20Community-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://t.me/Sunrises24BotUpdates">
+<img src="https://img.shields.io/badge/Project%20Updates-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Philosophy
+
+> **"Building intelligent software that combines Artificial Intelligence, Machine Learning, Computer Vision, and Automation to solve real-world problems while contributing to the open-source community."**
+
 ---
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api?username=Aluval&cc=000&tc=fff&ic=fff&bc=000" align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**If you find my projects useful, consider giving them a ⭐ and following my journey in AI, Machine Learning, and Open Source.**
+
 </p>
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/Aluval/Aluval/main/assets/Night-Coding.gif" align="right"/>
-
-### 💻Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Aluval">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aluval&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aluval&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<p align="center">
-<a href="https://t.me/Sunrises_24"><img src="https://img.shields.io/badge/-𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 🧑🏻‍💻%20%20-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
-<a href="https://t.me/Sunrises24BotUpdates"><img src="https://img.shields.io/badge/-𝐒𝐔𝐍𝐑𝐈𝐒𝐄𝐒 𝟐𝟒 𝐁𝐎𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒%20%20-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
-<a href="https://t.me/SUNRISES24BOT"><img src="https://img.shields.io/badge/-𝐒𝐔𝐍𝐑𝐈𝐒𝐄𝐒 𝟐𝟒 𝐁𝐎𝐓 𝐇𝐄𝐋𝐏%20%20-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>  
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"> 
-</p>
-
-### Some Projects :
-  
-<a href="https://github.com/Aluval/PHOTOENHANCER24BOT"> 
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aluval&repo=PHOTOENHANCER24BOT&cache_seconds=86400&theme=gotham"> 
- </a>
-
- <a href="https://github.com/Aluval/INFINITYSTARRENAME24BOT"> 
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aluval&repo=INFINITYSTARRENAME24BOT&cache_seconds=86400&theme=gotham"> 
- </a>
-
- <a href="https://github.com/Aluval/MetaMorpher"> 
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aluval&repo=MetaMorpher&cache_seconds=86400&theme=gotham"> 
- </a>
- 
- <a href="https://github.com/Aluval/EchoBeats"> 
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aluval&repo=EchoBeats&cache_seconds=86400&theme=gotham"> 
- </a>
-
- 
- <a href="https://github.com/Aluval/FitPixAI"> 
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aluval&repo=FitPixAI&cache_seconds=86400&theme=gotham"> 
- </a>
-
- <a href="https://github.com/Aluval/StreamCleanX"> 
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aluval&repo=StreamCleanX&cache_seconds=86400&theme=gotham"> 
- </a>
-
-<a href="https://github.com/Aluval/PixelPulseBot"> 
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aluval&repo=PixelPulseBot&cache_seconds=86400&theme=gotham"> 
- </a>
- 
-<a href="https://github.com/Aluval/ReNameXBot"> 
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aluval&repo=ReNameXBot&cache_seconds=86400&theme=gotham"> 
- </a>
------
