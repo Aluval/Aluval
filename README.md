@@ -109,12 +109,18 @@ I'm an **Associate Developer** passionate about building intelligent software us
 
 | Project | Description |
 |----------|-------------|
-| 🤖 **AI Coding Assistant** | AI-powered coding assistant with multi-model LLM integration, code generation, debugging, and intelligent software engineering support. |
-| 👤 **Face Recognition Security System** | Computer vision-based surveillance system with face recognition, Firebase integration, and automated incident reporting. |
-| 🖼️ **FitPix AI** | AI-powered image enhancement, restoration, background removal, and intelligent photo editing platform. |
+| 📊 **DataSci – AI Powered Data Analysis** | AI-powered web application for automated CSV data cleaning, visualization, machine learning predictions, and PDF report generation using Flask, Pandas, Scikit-learn, Plotly, Firebase, and Render Cloud. |
+| 🩺 **Cardiovascular Disease Prediction** | Machine Learning model for predicting cardiovascular disease risk using healthcare datasets, data preprocessing, feature engineering, and classification algorithms. |
+| 📈 **COVID-19 Global Data Analysis & Visualization** | End-to-end exploratory data analysis project with interactive dashboards and visualizations for analyzing worldwide COVID-19 trends using Python, Pandas, NumPy, and Excel. |
+| 🎵 **Spotify Songs Genre Segmentation** | Machine Learning project that classifies Spotify songs into genres using audio features, pattern analysis, and supervised learning techniques. |
+| 🔐 **QR & Voice Authentication Attendance System** | AI-powered attendance system combining QR code scanning, voice verification, cloud storage, and automated reporting to prevent proxy attendance. |
+| 🛡️ **QR, OTP & Voice Multi-Authentication Smart Lock** | Multi-factor authentication system integrating QR, OTP, AI voice verification, and Firebase for secure smart access control. |
+| 🔑 **Smart Lock with TOTP Authentication** | IoT-based smart lock implementing Time-based One-Time Password (TOTP), Google Authenticator compatibility, PIN verification, and cryptographic security using OpenSSL. |
+| 👁️ **AI Assistive System for the Blind** | Computer vision solution that detects obstacles, gestures, facial expressions, and emergency sounds while providing real-time voice guidance for visually impaired users. |
+| 👀 **Eye Detection Blink Module** | Real-time eye blink detection and liveness verification system using OpenCV, Dlib, and the Eye Aspect Ratio (EAR) algorithm. |
+| 😊 **Real-Time Facial Emotion Detection** | AI-powered facial emotion recognition system using MediaPipe and DeepFace to classify emotions from live webcam input with confidence scores. |
+| 🌬️ **AI Smart Ceiling Fan System** | AI & IoT project that detects room occupancy using computer vision and automatically adjusts fan speed based on environmental conditions for energy efficiency. |
 | 🌐 **MetaMorpher** | Professional Telegram ecosystem for media automation, community management, developer utilities, bot integrations, and scalable digital services. |
-| 🎬 **StreamCleanX** | Advanced media processing toolkit supporting stream removal, subtitle editing, metadata management, and automation workflows. |
-| 📸 **PHOTOENHANCER24BOT** | Telegram bot for AI-powered image enhancement and intelligent photo processing. |
 
 ---
 
