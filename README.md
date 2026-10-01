@@ -189,9 +189,9 @@ I'm an **Associate Developer** passionate about building intelligent software us
 # 📈 Development Summary
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aluval&theme=tokyonight"/>
-
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aluval&theme=tokyonight"
+  />
 </p>
 
 ---
@@ -199,11 +199,13 @@ I'm an **Associate Developer** passionate about building intelligent software us
 # ⚡ GitHub Productivity
 
 <p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aluval&theme=tokyonight"
+  />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aluval&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aluval&theme=tokyonight&utcOffset=5.5"/>
-
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aluval&theme=tokyonight&utcOffset=5.5"
+  />
 </p>
 
 ---
@@ -211,9 +213,9 @@ I'm an **Associate Developer** passionate about building intelligent software us
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Aluval&theme=tokyonight&hide_border=true"/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=Aluval&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
@@ -221,9 +223,9 @@ I'm an **Associate Developer** passionate about building intelligent software us
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aluval&theme=tokyo-night&hide_border=true"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Aluval&theme=tokyo-night&hide_border=true"
+  />
 </p>
 
 ---
@@ -231,9 +233,9 @@ I'm an **Associate Developer** passionate about building intelligent software us
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aluval&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Aluval&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"
+  />
 </p>
 
 ---
