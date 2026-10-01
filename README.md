@@ -223,9 +223,7 @@ I'm an **Associate Developer** passionate about building intelligent software us
 # 📈 Contribution Graph
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Aluval&theme=tokyo-night&hide_border=true"
-  />
+  <img src="./assets/contribution-graph.svg" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -233,9 +231,7 @@ I'm an **Associate Developer** passionate about building intelligent software us
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Aluval&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"
-  />
+  <img src="./assets/github-trophy.svg" alt="GitHub Trophies"/>
 </p>
 
 ---
